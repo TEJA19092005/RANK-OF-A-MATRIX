@@ -27,8 +27,9 @@ Print the result
 
 ```python
 #Program to find the rank of a matrix.
-#Developed by:Renuga.S 
-#RegisterNumber:212222230118
+#Developed by: M THEJESWARAN
+#RegisterNumber: 212223240168
+
 import numpy as np
 A=np.array([[1,2,3],[3,6,9]])
 rank=np.linalg.matrix_rank(A)
